@@ -13,12 +13,7 @@
                            │                                                              │
                            ╰──────────────────────────────────────────────────────────────╯
 ```
-
-<br>
-
 <div align="center">
-
-### tech stack
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=white)
@@ -31,8 +26,6 @@
 
 <br>
 
-### contributions
-
-![github activity](https://github-readme-activity-graph.vercel.app/graph?username=diaaney&bg_color=000000&color=808080&line=c0c0c0&point=ffffff&area=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=diaaney&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=808080&hide_title=true)
 
 </div>
