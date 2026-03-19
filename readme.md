@@ -22,10 +22,13 @@
 ![nextjs](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)
 ![tailwind](https://img.shields.io/badge/tailwind-black?style=flat&logo=tailwindcss&logoColor=white)
 ![nodejs](https://img.shields.io/badge/node.js-black?style=flat&logo=node.js&logoColor=white)
-![git](https://img.shields.io/badge/git-black?style=flat&logo=git&logoColor=white)
-
-<br>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=diaaney&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=808080&hide_title=true)
+![git](https://img.shields.io/badge/git-black?style=flat&logo=git&logoColor=white)<br>
+![supabase](https://img.shields.io/badge/supabase-black?style=flat&logo=supabase&logoColor=white)
+![docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker&logoColor=white)
+![vercel](https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white)
+![swift](https://img.shields.io/badge/swift-black?style=flat&logo=swift&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-black?style=flat&logo=tensorflow&logoColor=white)
 
 </div>
