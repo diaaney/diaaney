@@ -4,7 +4,7 @@
                            │                                                                      │
                            │                   diaaney@github                                     │
                            │                   --------------                                     │
-                           │    ／l、　　　　 　name: diane cintora (@diaaney)                     │
+                           │    ／l、　　　　 　name: diane (@diaaney)                             │
                            │  （ﾟ､ ｡ ７　　　 　role: ml engineer                                  │
                            │    l  ~ヽ　　　 　 focus: web design & machine learning               │
                            │    じしf_,)ノ　　　languages: ts, js, python                          │
