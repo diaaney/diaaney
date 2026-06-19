@@ -8,7 +8,7 @@
                            │  （ﾟ､ ｡ ７　　　 　role: ml engineer                                  │
                            │    l  ~ヽ　　　 　 focus: web design & machine learning               │
                            │    じしf_,)ノ　　　stack: js, ts, python                              │
-                           │                   langs: eng, esp, kr                                │
+                           │                   langs: eng, esp                                    │
                            │                   location: california, usa                          │
                            │                                                                      │
                            ╰──────────────────────────────────────────────────────────────────────╯
