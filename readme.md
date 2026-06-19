@@ -26,9 +26,5 @@
 ![supabase](https://img.shields.io/badge/supabase-black?style=flat&logo=supabase&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white)
-![swift](https://img.shields.io/badge/swift-black?style=flat&logo=swift&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-black?style=flat&logo=pytorch&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-black?style=flat&logo=pandas&logoColor=white)
-![tensorflow](https://img.shields.io/badge/tensorflow-black?style=flat&logo=tensorflow&logoColor=white)
 
 </div>
