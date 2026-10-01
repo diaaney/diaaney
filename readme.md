@@ -1,6 +1,6 @@
 ```
                            ╭──────────────────────────────────────────────────────────────────────╮
-                           │  diaaney@kiwi:~$ neofetch                                            │
+                           │  diaaney@github:~$ neofetch                                          │
                            │                                                                      │
                            │                   diaaney@github                                     │
                            │                   --------------                                     │
@@ -8,7 +8,7 @@
                            │  （ﾟ､ ｡ ７　　　 　role: ml engineer                                  │
                            │    l  ~ヽ　　　 　 focus: web design & machine learning               │
                            │    じしf_,)ノ　　　stack: js, ts, python                              │
-                           │                   langs: eng, esp                                    │
+                           │                   langs: eng, esp, fr                                │
                            │                   location: california, usa                          │
                            │                                                                      │
                            ╰──────────────────────────────────────────────────────────────────────╯
@@ -26,5 +26,8 @@
 ![supabase](https://img.shields.io/badge/supabase-black?style=flat&logo=supabase&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-black?style=flat&logo=docker&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white)
+![vllm](https://img.shields.io/badge/vllm-black?style=flat&logo=pytorch&logoColor=white)
+![huggingface](https://img.shields.io/badge/huggingface-black?style=flat&logo=huggingface&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-black?style=flat&logo=jupyter&logoColor=white)
 
 </div>
