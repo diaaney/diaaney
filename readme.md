@@ -7,7 +7,7 @@
                            │    ／l、　　　　 　name: diane (@diaaney)                             │
                            │  （ﾟ､ ｡ ７　　　 　role: ml engineer                                  │
                            │    l  ~ヽ　　　 　 focus: web design & machine learning               │
-                           │    じしf_,)ノ　　　stack: js, ts, python                              │
+                           │    じしf_,)ノ　　　stack: js, ts, python & sql                        │
                            │                   langs: eng, esp, fr                                │
                            │                   location: california, usa                          │
                            │                                                                      │
